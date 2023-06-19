@@ -751,11 +751,6 @@
   "resolved" "https://registry.npmjs.org/hexo-theme-redefine/-/hexo-theme-redefine-2.1.5.tgz"
   "version" "2.1.5"
 
-"hexo-theme-volantis@^5.8.0":
-  "integrity" "sha512-Ap8xHssnfEj6eNIoGMVJNiGUza0azPlXcnMaoVa+N69981W9VQ4QSWiylw4kyhE7uu21nCUWxFH7RptyLzDxkw=="
-  "resolved" "https://registry.npmjs.org/hexo-theme-volantis/-/hexo-theme-volantis-5.8.0.tgz"
-  "version" "5.8.0"
-
 "hexo-util@^2.0.0", "hexo-util@^2.5.0", "hexo-util@^2.7.0":
   "integrity" "sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ=="
   "resolved" "https://registry.npmjs.org/hexo-util/-/hexo-util-2.7.0.tgz"
