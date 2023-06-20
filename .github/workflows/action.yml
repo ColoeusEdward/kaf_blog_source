@@ -12,7 +12,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: Build and Deploy
-      uses: ColoeusEdward/hexo-deploy-github-pages-action@master
+      uses: theme-keep/hexo-deploy-github-pages-action@master
       env:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
 
