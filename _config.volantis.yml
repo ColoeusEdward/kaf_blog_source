@@ -55,7 +55,7 @@ cover:
   # height_scheme: full # full, half
   #以启山林
   title: '记山月, 记拙言'
-  subtitle: '“你以为这天又是一个很平常的日子，这其实是你人生里最棒的一天。这样的一天永远不会再有了。”'
+  subtitle: '“你以为那天又是一个很平常的日子，那其实是你人生里最棒的一天。这样的一天永远不会再有了。”'
   background: # https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   features:
     - name: 博客
