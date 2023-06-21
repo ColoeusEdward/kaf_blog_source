@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 凑斗腐の避难所
-subtitle: ''
+title: 凑斗腐的深夜独嗥
+subtitle: '蝦虎遨游, 直至尽头'
 description: A blog that shared my life and programming records/记山月,记拙言
-keywords: Blog,Technology,Programming,Anime,博客,记录,编程,二次元
+keywords: Blog,Technology,Programming,Anime,博客,记录,编程,日摇
 author: Wayne Wong
 language: zh-CN
-timezone: ''
-favicon: 'https://tva1.sinaimg.cn/large/9448bbf8gy1hf5ycl4ntgj20780780st.jpg'
+timezone: Asia/Shanghai
+favicon: https://i.postimg.cc/c4pQ4nmS/117193083-181634213479637-4752913024053777171-n.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
